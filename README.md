@@ -1,4 +1,15 @@
-## Hi there 👋
+## Seja bem vindos(a)😜💕
+meu nome é Estefany luzia 
+
+-Estou estudando na Alura
+
+-Estou me desenvolvendo na linguagem JavaScript
+
+-Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+
+## Você pode entrar em contato comigo✨📜
+
+00001083409864sp@al.sp.educacao.gov.br
 
 <!--
 **ELDS2B/ELDS2B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
